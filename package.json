@@ -1,0 +1,25 @@
+{
+  "name": "laravue-spa",
+  "version": "0.0.0",
+  "description": "Complimentary package for the composer \"wheelmaker/laravue-spa\" package for creating an SPA with Laravel and Vuejs",
+  "main": "index.js",
+  "dependencies": {
+    "vuetify": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "laravel",
+    "vuejs",
+    "spa",
+    "single",
+    "page",
+    "app",
+    "single",
+    "page",
+    "application"
+  ],
+  "author": "Wheelmaker",
+  "license": "MIT"
+}
